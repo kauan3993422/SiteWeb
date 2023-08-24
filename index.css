@@ -1,0 +1,26 @@
+body{
+  margin:0;
+  padding:0;
+  
+  
+}
+li{
+  list-style:none;
+}
+header{
+ background-color:#0f0f0fdf;
+ color:white;
+ margin:0;
+ padding:5px;
+}
+main{
+  display:flex;
+  /*alinhamento horizontal*/
+  justify-content:flex-end;
+  /*alinhamento vertical*/
+  /*posiciona os itens de maneira vertical e horizontal*/
+  flex-direction:column;
+  padding:0;
+  margin:0;
+  
+}
